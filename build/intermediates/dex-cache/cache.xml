@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_9df48af4e9eda6a0fe88e50eb80fd15f06f0535f.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4523ed124645c54b2611beafa1f935d49fef9ff9">
+        <dex dex="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/pre-dexed/debug/instant-run_e7133d7b61fb83b7fc158220cbb1e0ad4bda8419.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_c7b27f639f0b3747318ba609d808276a3d155a2e.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_bb1771d40e441133102b4f1fd98c9ee35487207e.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d48d4bcad3e5eb5c8b92c8f409925d4059ad1f6f">
+        <dex dex="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_05e9ca0170bc57485137c960a46ba7bfdcac8fc6.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_caf3996d06e80c882a5ff533d5244c26fbbfcd3a.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_f412f963a205ce8c17515399fc73553bd0c3659b.jar" />
+    </item>
+    <item
+        jar="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/jamesg/AndroidStudioProjects/flashlight-master/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_645be9033438571b43d59a2a3a30c06f45ed9e73.jar" />
+    </item>
+
+</items>
